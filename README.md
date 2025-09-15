@@ -54,7 +54,7 @@ We may update this Privacy Policy occasionally. Any changes will be posted here 
 
 If you have any questions about this Privacy Policy, please contact us at:  
 
-**Email:** support@spaceboundapp.com  
+**Email:** robert.clegg@gmail.com  
 
 ---
 
