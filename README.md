@@ -1,61 +1,85 @@
-# Privacy Policy for Spacebound: Rocket Launch
+# Privacy Policy for PageFlow
 
-**Effective Date:** September 15, 2025
+**Effective Date:** 21 October 2025  
 
-Spacebound (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we handle your information when you use our mobile app, **Spacebound: Rocket Launch**.
+PageFlow (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we handle your information when you use our iOS app, **PageFlow**.
 
 ---
 
 ## 1. Information We Collect
 
-We **do not collect any personal information** from you.  
+We designed PageFlow to minimize data collection.
 
-The only data collected is **non-personal usage data**, such as app performance metrics or crash reports, which helps us improve the app. All optional features, like watchlists or notifications, store data **locally on your device** only.
-
----
-
-## 2. How We Use Your Information
-
-The limited data we collect is used solely to:  
-
-- Maintain and improve app functionality  
-- Send notifications for launches you are following  
-- Analyze app performance and fix issues  
-
-We **do not sell, share, or transfer** your data to third parties.
+- **Personal data:** We do **not** collect names, email addresses, accounts, or contact lists.  
+- **Reading data (library, progress, shelves):** Stored **locally on your device** and, if you enable it, synced privately via **Apple iCloud** to your Apple ID. We do **not** have access to your iCloud contents.  
+- **Diagnostics & usage (optional/limited):** We may collect **anonymous, aggregate app usage and diagnostics** (e.g., screen interactions, crashes) to improve stability and user experience. This data is **not linked** to your identity and contains no book content.
 
 ---
 
-## 3. Analytics
+## 2. How We Use Information
 
-We may use anonymized analytics services (e.g., Google Analytics, Firebase) to understand app usage patterns. This information **cannot be used to identify you personally**.
+We use limited, non-identifying information to:
 
----
+- Maintain and improve app functionality and performance  
+- Diagnose crashes and usability issues  
+- Support features like notifications and widgets  
 
-## 4. Data Storage and Security
-
-All data is stored securely on your device. We do not store personal information on external servers.
-
----
-
-## 5. Children’s Privacy
-
-This app is **not directed to children under 13**, and we do not knowingly collect information from children.
+We **do not sell, rent, or trade** your data.
 
 ---
 
-## 6. Changes to This Privacy Policy
+## 3. Data Storage & Sync
 
-We may update this Privacy Policy occasionally. Any changes will be posted here with a revised **effective date**.
+- **On-device:** Your reading data (books, progress, shelves, preferences) is stored on your device. Widgets use Apple’s **App Group** storage to read this data locally.  
+- **iCloud (if enabled):** Apple’s iCloud stores your library and reading progress in your own iCloud account so your data can be restored on reinstall and kept in sync across your devices signed into the **same Apple ID** with **iCloud enabled**.  
+- **Our servers:** We do **not** host your reading data on our own servers.  
+
+> Deleting PageFlow from your device does not delete data that already synced to iCloud. You can manage or delete iCloud data in **Settings → [your name] → iCloud**.
 
 ---
 
-## 7. Contact Us
+## 4. Permissions We Request
 
-If you have any questions about this Privacy Policy, please contact us at:  
+- **Camera:** Used **only** for barcode scanning to add books. Images or frames are never sent to our servers.  
+- **Notifications:** Optional, to remind you about reading or updates you opt into.  
+- **Network access:** For metadata lookups, cover art, and (if enabled) iCloud sync.
+
+---
+
+## 5. Analytics & Diagnostics
+
+We may use privacy-focused analytics (e.g., **TelemetryDeck**) and Apple’s crash reporting to understand aggregate usage and stability. These events are **anonymous** and **not linked** to your identity or reading content.  
+No advertising SDKs or cross-app trackers are used.
+
+---
+
+## 6. Children’s Privacy
+
+PageFlow is **not directed to children under 13**, and we do not knowingly collect personal information from children.
+
+---
+
+## 7. Your Choices
+
+- **iCloud Sync:** You control iCloud in iOS Settings; disable it at any time.  
+- **Notifications:** You can enable or disable notifications in iOS **Settings → Notifications**.  
+- **Camera:** You can enable or disable camera access in **Settings → Privacy → Camera**.  
+- **Export/Backup:** We plan to provide an **export/import** option after MVP so you can back up your data or move it elsewhere. When available, exports remain local to you.
+
+---
+
+## 8. Changes to This Policy
+
+We may update this policy from time to time. Any changes will be posted here with a revised **Effective Date**.
+
+---
+
+## 9. Contact Us
+
+If you have questions about this Privacy Policy, please contact:
 
 **Email:** robert.clegg@gmail.com  
 
 ---
 
-*Thank you for using Spacebound: Rocket Launch! Your privacy is our priority.*
+*Thank you for using PageFlow. Your reading life is yours — we keep it that way.*
